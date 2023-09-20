@@ -16,7 +16,6 @@ const DicSearch = () => {
                 <input type="text" name='word' value={searchInput} onChange={inputTxt} placeholder="검색어 입력"></input>
                 <button className='searchBtn' onClick={searchFunc}></button>
             </div>
-            
         </div>
      );
 }

@@ -158,10 +158,10 @@ function App() {
       id
     })
   }
-  const onSearch = (word) => {
+  const onSearch = (text) => {
     dispatch({
       type: 'search',
-      word
+      text
     })
   }
   const memoizedDic = useMemo(()=>{
