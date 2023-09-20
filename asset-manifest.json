@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kyuleee/dictionary/static/css/main.6a503f79.css",
-    "main.js": "/kyuleee/dictionary/static/js/main.f7629287.js",
+    "main.js": "/kyuleee/dictionary/static/js/main.a5cd1970.js",
     "index.html": "/kyuleee/dictionary/index.html",
     "main.6a503f79.css.map": "/kyuleee/dictionary/static/css/main.6a503f79.css.map",
-    "main.f7629287.js.map": "/kyuleee/dictionary/static/js/main.f7629287.js.map"
+    "main.a5cd1970.js.map": "/kyuleee/dictionary/static/js/main.a5cd1970.js.map"
   },
   "entrypoints": [
     "static/css/main.6a503f79.css",
-    "static/js/main.f7629287.js"
+    "static/js/main.a5cd1970.js"
   ]
 }
